@@ -1,2 +1,0 @@
-C:\Users\thejs\source\repos\PythonCPPSample01\Release\CPP_Py_Calculator.exe
-C:\Users\thejs\source\repos\GroceryApp\Release\GroceryApp.exe
